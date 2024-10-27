@@ -1,0 +1,6 @@
+.env
+/chroma
+/chroma_langchain_db
+/docloader/chroma
+auto.sh
+
